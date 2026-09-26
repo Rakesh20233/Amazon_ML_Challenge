@@ -23,6 +23,7 @@ secrets.env
 *.tar.gz
 *.zip
 *.dng
+*.parquet
 
 # OS / Editor clutter
 .DS_Store
