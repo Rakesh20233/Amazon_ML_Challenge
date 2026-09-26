@@ -1,0 +1,28 @@
+# Ignore the entire datasets folder anywhere in the repo
+datasets/
+
+# Or ignore only if it's at the root level
+/datasets/
+
+# Ignore specific files
+Documentation_template.md
+README_Default.md
+config.json
+secrets.env
+*.log
+
+# Ignore common large data formats or model weights
+*.h5
+*.pt
+*.pth
+*.npy
+*.npz
+*.tar.gz
+*.zip
+*.dng
+
+# OS / Editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
