@@ -1,5 +1,8 @@
 # Ignore the entire datasets folder anywhere in the repo
 datasets/
+dataset/
+Datasets/
+Dataset/
 
 # Or ignore only if it's at the root level
 /datasets/
